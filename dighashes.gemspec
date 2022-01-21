@@ -8,6 +8,5 @@ Gem::Specification.new do |s|
     s.files       = ["lib/dighashes.rb"]
     # s.homepage    =
     #   'https://rubygems.org/gems/hola'
-    # s.license       = 'MIT'
-    #not
+     s.license       = 'MIT'
   end
